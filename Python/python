@@ -1,0 +1,3 @@
+1.Interpretor reads and executes line by line of code.
+2.Compiler reads a file and executes the whole file.
+3.cpython translates/interpretes python.There are other types of translators written in different languages for python e.g pypy, jython
