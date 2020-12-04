@@ -1,3 +1,21 @@
 1.Interpretor reads and executes line by line of code.
 2.Compiler reads a file and executes the whole file.
 3.cpython translates/interpretes python.There are other types of translators written in different languages for python e.g pypy, jython
+
+#FUNDAMENTAL DATA TYPES
+1.int
+2.bool
+3.float
+4.str
+5.list
+6.tuple
+7.dict
+8.set
+
+#CLASSES -> custom type
+
+#SPECIALIZED DATA TYPES
+
+#None -> nothing
+
+
