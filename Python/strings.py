@@ -14,4 +14,7 @@ print('hello'+'world')
 
 #formatted strings
 name='Jameson'
-print('hi '+name)
+age=55
+
+print(f'hi {name}.You are {age} years old')
+
