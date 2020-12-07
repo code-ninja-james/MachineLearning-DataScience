@@ -16,6 +16,11 @@
 
 #SPECIALIZED DATA TYPES
 
-#None -> nothing
+#None -> nothing(null)
+
+#A good programmer should know when to use a data structuree
+
+#A key in a data sctructure should be unique
+
 
 
